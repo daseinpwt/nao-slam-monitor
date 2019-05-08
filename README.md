@@ -1,5 +1,5 @@
 # Nao SLAM Monitor
-This tool is developed for controlling the Nao Robot and performing the landmark detection at the same.
+This tool is developed for controlling the Nao Robot and performing the landmark detection at the same time.
 
 ![](https://drive.google.com/uc?authuser=0&id=1G4_BtnTECsw8c7uf9GFN67E5tJ7LHmOb&export=download)
 
